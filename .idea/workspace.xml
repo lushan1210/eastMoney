@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa74946a-df3f-4443-8c3e-846cfd75688b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WFKQvlfsWd8VmGFZTqSA748Xga" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager" selected="Python.seleniumDemo">
+    <configuration name="commd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pachong" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/firstSpider/firstSpider/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/firstSpider/firstSpider/util/commd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pachong" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eastMoney" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eastMoney/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pachong" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/firstSpider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/firstSpider/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seleniumDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pachong" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eastMoney/eastMoney/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eastMoney/eastMoney/util/seleniumDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zhihu_login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pachong" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/firstSpider/firstSpider/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/firstSpider/firstSpider/util/zhihu_login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.seleniumDemo" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.zhihu_login" />
+        <item itemvalue="Python.commd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa74946a-df3f-4443-8c3e-846cfd75688b" name="Default Changelist" comment="" />
+      <created>1578739889903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578739889903</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="455" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580875239730">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="455" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1580875239730" />
+    <state x="483" y="160" key="#xdebugger.evaluate" timestamp="1578839148806">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="483" y="160" key="#xdebugger.evaluate/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1578839148806" />
+    <state width="1440" height="438" key="DebuggerActiveHint" timestamp="1580380097284">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="438" key="DebuggerActiveHint/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1578919640363" />
+    <state width="1440" height="438" key="DebuggerActiveHint/-1194.23.1194.811/0.0.1440.900@0.0.1440.900" timestamp="1578842047181" />
+    <state width="1440" height="438" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1580380097284" />
+    <state width="1419" height="307" key="GridCell.Tab.0.bottom" timestamp="1582214317602">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="236" key="GridCell.Tab.0.bottom/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1578917572572" />
+    <state width="1419" height="303" key="GridCell.Tab.0.bottom/-1194.23.1194.811/0.0.1440.900@0.0.1440.900" timestamp="1578842092098" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.820@0.0.1440.820" timestamp="1580289648835" />
+    <state width="1419" height="307" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582214317602" />
+    <state width="1419" height="307" key="GridCell.Tab.0.center" timestamp="1582214317601">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="236" key="GridCell.Tab.0.center/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1578917572569" />
+    <state width="1419" height="303" key="GridCell.Tab.0.center/-1194.23.1194.811/0.0.1440.900@0.0.1440.900" timestamp="1578842092097" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.820@0.0.1440.820" timestamp="1580289648834" />
+    <state width="1419" height="307" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582214317601" />
+    <state width="1419" height="307" key="GridCell.Tab.0.left" timestamp="1582214317601">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="236" key="GridCell.Tab.0.left/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1578917572568" />
+    <state width="1419" height="303" key="GridCell.Tab.0.left/-1194.23.1194.811/0.0.1440.900@0.0.1440.900" timestamp="1578842092093" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.820@0.0.1440.820" timestamp="1580289648834" />
+    <state width="1419" height="307" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582214317601" />
+    <state width="1419" height="307" key="GridCell.Tab.0.right" timestamp="1582214317602">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="236" key="GridCell.Tab.0.right/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1578917572570" />
+    <state width="1419" height="303" key="GridCell.Tab.0.right/-1194.23.1194.811/0.0.1440.900@0.0.1440.900" timestamp="1578842092098" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.820@0.0.1440.820" timestamp="1580289648835" />
+    <state width="1419" height="307" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582214317602" />
+    <state width="1419" height="236" key="GridCell.Tab.1.bottom" timestamp="1582214240173">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="236" key="GridCell.Tab.1.bottom/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1578917576876" />
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom/-1194.23.1194.811/0.0.1440.900@0.0.1440.900" timestamp="1578842092000" />
+    <state width="1419" height="236" key="GridCell.Tab.1.bottom/0.0.1440.820@0.0.1440.820" timestamp="1580289648822" />
+    <state width="1419" height="236" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582214240173" />
+    <state width="1419" height="236" key="GridCell.Tab.1.center" timestamp="1582214240172">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="236" key="GridCell.Tab.1.center/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1578917576875" />
+    <state width="1419" height="303" key="GridCell.Tab.1.center/-1194.23.1194.811/0.0.1440.900@0.0.1440.900" timestamp="1578842091998" />
+    <state width="1419" height="236" key="GridCell.Tab.1.center/0.0.1440.820@0.0.1440.820" timestamp="1580289648821" />
+    <state width="1419" height="236" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1582214240172" />
+    <state width="1419" height="236" key="GridCell.Tab.1.left" timestamp="1582214240171">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="236" key="GridCell.Tab.1.left/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1578917576874" />
+    <state width="1419" height="303" key="GridCell.Tab.1.left/-1194.23.1194.811/0.0.1440.900@0.0.1440.900" timestamp="1578842091998" />
+    <state width="1419" height="236" key="GridCell.Tab.1.left/0.0.1440.820@0.0.1440.820" timestamp="1580289648820" />
+    <state width="1419" height="236" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1582214240171" />
+    <state width="1419" height="236" key="GridCell.Tab.1.right" timestamp="1582214240172">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="236" key="GridCell.Tab.1.right/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1578917576876" />
+    <state width="1419" height="303" key="GridCell.Tab.1.right/-1194.23.1194.811/0.0.1440.900@0.0.1440.900" timestamp="1578842091999" />
+    <state width="1419" height="236" key="GridCell.Tab.1.right/0.0.1440.820@0.0.1440.820" timestamp="1580289648821" />
+    <state width="1419" height="236" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1582214240172" />
+    <state x="123" y="120" key="SettingsEditor" timestamp="1582173119388">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="123" y="120" key="SettingsEditor/-1194.0.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1578838995825" />
+    <state x="123" y="120" key="SettingsEditor/-1194.23.1194.811/0.0.1440.900@0.0.1440.900" timestamp="1578842016636" />
+    <state x="123" y="120" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1582173119388" />
+    <state width="720" height="450" key="XDebugger.FullValuePopup" timestamp="1582173137193">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="720" height="450" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1582173137193" />
+    <state x="397" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1582169542854">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="243" key="com.intellij.ide.util.TipDialog/0.0.1440.821@0.0.1440.821" timestamp="1578739966780" />
+    <state x="397" y="243" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1582169542854" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1581395730096">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1581395730096" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/firstSpider/firstSpider/spiders/zhihu.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/firstSpider/firstSpider/spiders/zhihu.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/eastMoney/eastMoney/spiders/shares.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/eastMoney/eastMoney/util/seleniumDemo.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

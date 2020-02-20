@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+scrapy = "*"
+pil = "*"
+pillow = {index = "https://pypi.douban.com/simple",version = "*"}
+mysqlclient = {index = "https://pypi.douban.com/simple/",version = "*"}
+mysqldb = "*"
+request = "*"
+selenium = "*"
+
+[requires]
+python_version = "3.7"
